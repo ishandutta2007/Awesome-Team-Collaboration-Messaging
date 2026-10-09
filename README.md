@@ -53,9 +53,9 @@ The table below outlines leading commercial team messaging platforms sorted by c
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted open-source team chat applications sorted by GitHub star counts (descending). Each repository link includes a live star badge linking directly to its GitHub stargazers page. 🔓
+Self-hosted open-source team chat applications sorted by GitHub Stars_Counts (descending). Each repository link includes a live Stars_Badge linking directly to its GitHub stargazers page. 🔓
 
-| Repository & Project | GitHub Star Badge | License | Description & Key Strengths |
+| Repository & Project | GitHub Stars_Badge | License | Description & Key Strengths |
 | :--- | :--- | :--- | :--- |
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | MIT | Enterprise open-source chat server featuring channel messaging, video conferencing, live chat widgets, and omnichannel integrations. 🚀 |
 | **[Mattermost](https://github.com/mattermost/mattermost-server)** | [![Stars](https://img.shields.io/github/stars/mattermost/mattermost-server?style=social&color=white)](https://github.com/mattermost/mattermost-server/stargazers) | MIT / AGPLv3 | Enterprise-grade self-hosted Slack alternative designed for technical teams requiring strict data sovereignty and compliance. 🛡️ |
